@@ -2,7 +2,9 @@ bun
 top bun
 BBQ sauce
 blue cheese
-steack
+steack 1
+cheddar
+steack 2
 tomatoe
 salad
 BBQ sauce
